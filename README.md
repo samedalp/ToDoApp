@@ -10,8 +10,6 @@ composer install
 php artisan migrate
 ```
 ```bash
-php artisan db:seed
-```bash
 php artisan serve
 ```
 ```bash
