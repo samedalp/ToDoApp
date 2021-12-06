@@ -12,4 +12,7 @@ php artisan migrate
 ```bash
 php artisan serve
 ```
+```bash
+php artisan db:seed
+```
 # ToDoApp
